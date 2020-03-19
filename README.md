@@ -20,3 +20,4 @@
 Пример, как это выглядит:
 ![Visualisation](./visualization_example.png)
 
+В файле `database_neo4j.csv` можно ознакомиться с базой данных, которую мы сделали в neo4j
